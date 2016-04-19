@@ -1,2 +1,2 @@
 # Movie-Recommender-System
-In this project we try to build a recommendation system for a movie ratings dataset.
+In this project we try to build a recommendation system for a movie ratings dataset. GroupLens Research has collected and made available rating data sets from the MovieLens website. The data sets were collected over various periods of time, depending on the size of the set. In this example we will be using both the small dataset around 100k ratings as well as 22M ratings which include 580,000 tag applications applied to 33,000 movies by 240,000 users. We will show how collaborative filtering can be applied to the smaller dataset using Python and pandas. Then we will apply the same technique to the full 22M ratings dataset using Apache Spark's SparkSQL.
